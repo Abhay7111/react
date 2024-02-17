@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav a, .main a, .featured a, .about a, .card a, .strtp a{
+     text-decoration: none;
+}
+.futter a{
+     text-decoration: underline;
+}
+a{
+     font-family: NeueMontreal, Roboto, sans-serif;
+}
+html{
+     background-color: #18181B;
+}
+li{
+     font-size: 1vw;
+}
